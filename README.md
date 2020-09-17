@@ -1,2 +1,2 @@
 # Academic
-Academics
+Academic Projects
